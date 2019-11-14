@@ -1,0 +1,7 @@
+README.md
+setup.py
+gym_tictac.egg-info/PKG-INFO
+gym_tictac.egg-info/SOURCES.txt
+gym_tictac.egg-info/dependency_links.txt
+gym_tictac.egg-info/requires.txt
+gym_tictac.egg-info/top_level.txt
