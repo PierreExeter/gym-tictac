@@ -8,8 +8,8 @@ A reward of +100 is given to the player wining the game.
 
 ## Installation and environment registration
 ```
-git clone https://github.com/PierreExeter/gym-foo.git
-cd gym-foo
+git clone https://github.com/PierreExeter/gym-tictac.git
+cd gym-tictac
 pip install gym
 pip install -e .
 ```
